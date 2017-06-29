@@ -8,5 +8,6 @@ while len(mega) < 6:
     if number not in mega:
         mega.append(number)
 
-print ( mega )
+mega.sort()
 
+print ( mega )
