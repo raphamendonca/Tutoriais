@@ -48,7 +48,7 @@ GEM
     globalid (0.4.0)
       activesupport (>= 4.2.0)
     i18n (0.8.4)
-    loofah (2.0.3)
+    loofah (2.2.1)
     mail (2.6.6)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
