@@ -3,6 +3,3 @@ pip-selfcheck.json
 include/
 lib
 lib/
-
-.classpath
-.projets
